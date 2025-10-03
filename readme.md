@@ -1,6 +1,5 @@
-### 🤖 NEXUS-AI ML INTERNSHIP
+# 🤖 NEXUS-AI ML INTERNSHIP
 ## 🆔 ID: NEXUS-079
-# 🛍️ Retail Analytics Data Science Portfolio
 
 This repository contains a collection of **Jupyter notebooks** demonstrating various data science tasks applied to retail datasets.  
 The tasks cover exploratory data analysis (EDA), interactive dashboards, machine learning models for customer churn prediction, product recommendation systems, and time series forecasting for sales.  
@@ -106,5 +105,6 @@ pip install -r requirements.txt
 4. Ensure datasets are loaded correctly (paths may need adjustment).
 
 ## 📜 License
+
 
 This project is by HAMNA NAZAR ✨
